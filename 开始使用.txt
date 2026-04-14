@@ -1,0 +1,14 @@
+aishort（短线量化 + AI）Cursor Skill 快速开始
+========================================
+
+1）给别人发这个仓库链接：
+   https://github.com/kfqylf/aishort
+
+2）对方在 Windows 上最简单的做法：
+   - 打开 README.md 看「中文：别人只有链接怎么用」
+   - 或解压本文件夹后，在文件夹里打开 PowerShell，运行：
+     powershell -ExecutionPolicy Bypass -File .\install.ps1
+
+3）装完后务必重启 Cursor。
+
+详细步骤以 README.md 为准。
